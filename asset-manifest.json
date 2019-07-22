@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deck-gl-assessment-map-nr/static/css/main.34de6062.chunk.css",
+    "main.js": "/deck-gl-assessment-map-nr/static/js/main.1d6f11cb.chunk.js",
+    "main.js.map": "/deck-gl-assessment-map-nr/static/js/main.1d6f11cb.chunk.js.map",
+    "runtime~main.js": "/deck-gl-assessment-map-nr/static/js/runtime~main.aeaaec24.js",
+    "runtime~main.js.map": "/deck-gl-assessment-map-nr/static/js/runtime~main.aeaaec24.js.map",
+    "static/js/2.404a8556.chunk.js": "/deck-gl-assessment-map-nr/static/js/2.404a8556.chunk.js",
+    "static/js/2.404a8556.chunk.js.map": "/deck-gl-assessment-map-nr/static/js/2.404a8556.chunk.js.map",
+    "index.html": "/deck-gl-assessment-map-nr/index.html",
+    "precache-manifest.488bbd7c15f3344cbe940aa8ecc7362e.js": "/deck-gl-assessment-map-nr/precache-manifest.488bbd7c15f3344cbe940aa8ecc7362e.js",
+    "service-worker.js": "/deck-gl-assessment-map-nr/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/deck-gl-assessment-map-nr/static/css/main.34de6062.chunk.css.map"
+  }
+}
